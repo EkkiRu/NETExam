@@ -1,0 +1,15 @@
+C:\Users\rukzw\source\repos\NetworkExam\NetworkExam\bin\Debug\netcoreapp3.1\NetworkExam.exe
+C:\Users\rukzw\source\repos\NetworkExam\NetworkExam\bin\Debug\netcoreapp3.1\NetworkExam.deps.json
+C:\Users\rukzw\source\repos\NetworkExam\NetworkExam\bin\Debug\netcoreapp3.1\NetworkExam.runtimeconfig.json
+C:\Users\rukzw\source\repos\NetworkExam\NetworkExam\bin\Debug\netcoreapp3.1\NetworkExam.runtimeconfig.dev.json
+C:\Users\rukzw\source\repos\NetworkExam\NetworkExam\bin\Debug\netcoreapp3.1\NetworkExam.dll
+C:\Users\rukzw\source\repos\NetworkExam\NetworkExam\bin\Debug\netcoreapp3.1\NetworkExam.pdb
+C:\Users\rukzw\source\repos\NetworkExam\NetworkExam\obj\Debug\netcoreapp3.1\NetworkExam.csprojAssemblyReference.cache
+C:\Users\rukzw\source\repos\NetworkExam\NetworkExam\obj\Debug\netcoreapp3.1\NetworkExam.AssemblyInfoInputs.cache
+C:\Users\rukzw\source\repos\NetworkExam\NetworkExam\obj\Debug\netcoreapp3.1\NetworkExam.AssemblyInfo.cs
+C:\Users\rukzw\source\repos\NetworkExam\NetworkExam\obj\Debug\netcoreapp3.1\NetworkExam.dll
+C:\Users\rukzw\source\repos\NetworkExam\NetworkExam\obj\Debug\netcoreapp3.1\NetworkExam.pdb
+C:\Users\rukzw\source\repos\NetworkExam\NetworkExam\obj\Debug\netcoreapp3.1\NetworkExam.genruntimeconfig.cache
+C:\Users\rukzw\source\repos\NetworkExam\NetworkExam\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rukzw\source\repos\NetworkExam\NetworkExam\obj\Debug\netcoreapp3.1\NetworkExam.csproj.CoreCompileInputs.cache
+C:\Users\rukzw\source\repos\NetworkExam\NetworkExam\obj\Debug\netcoreapp3.1\NetworkExam.csproj.CopyComplete

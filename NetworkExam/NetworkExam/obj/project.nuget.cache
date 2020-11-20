@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SU7sNomicSGkb8yO7/X/1wH5sprZNWpSNsYB6KMvBBOgnYjOdJ1wLPGGmt3ymaS3U0q952p90liIbWI6CE3nsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rukzw\\source\\repos\\NetworkExam\\NetworkExam\\NetworkExam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rukzw\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
